@@ -1,5 +1,5 @@
 # Deep Learning-Based Bird vs. Drone Detection for Aerial Object Classification
-This research focuses on developing an efficient bird vs. drone detection system using machine learning, specifically employing Convolutional Neural Networks (CNNs) to classify aerial objects into birds and drones. The model was trained using TensorFlow and Keras, leveraging DenseNet121 and a custom CNN model with 3 convolutional layers.
+This research focuses on developing an efficient bird vs. drone detection system using machine learning, specifically employing Convolutional Neural Networks (CNNs) to classify aerial objects into birds and drones. The model was trained using TensorFlow and Keras, and a custom CNN model with 3 convolutional layers.
 
 # **Setup Instructions:**
 To set up the environment and run the research, follow the steps below:
